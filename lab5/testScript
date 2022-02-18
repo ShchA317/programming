@@ -1,0 +1,25 @@
+help
+info
+add
+1
+1
+1
+1
+
+baker
+fired 
+
+info
+show
+update 1
+2
+2
+2
+2
+
+manager
+fired
+
+info
+show
+execute_script testScript2

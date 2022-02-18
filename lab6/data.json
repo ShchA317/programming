@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "1",
+    "coordinates": {
+      "x": 2.0,
+      "y": 3.0
+    },
+    "creationDate": "2021-08-27T16:30:45.355370789",
+    "salary": 4.0,
+    "position": "MANAGER",
+    "status": "FIRED"
+  },
+  {
+    "id": 2,
+    "name": "sergei",
+    "coordinates": {
+      "x": 8.0,
+      "y": 9.0
+    },
+    "creationDate": "2021-08-29T15:42:45.175233233",
+    "salary": 9.99999999E8,
+    "position": "LEAD_DEVELOPER",
+    "status": "PROBATION"
+  }
+]

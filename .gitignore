@@ -1,0 +1,14 @@
+*.docx 
+*.class
+*.jar
+*.odt
+*.properties
+
+out/
+bin/
+build/
+.idea/
+.gradle/
+
+task
+task.txt

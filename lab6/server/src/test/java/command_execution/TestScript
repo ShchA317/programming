@@ -1,0 +1,34 @@
+
+clear
+
+remove_head
+
+remove_by_id 1
+
+add
+    Name
+        1
+        2
+        1000.0
+
+        LEAD DEVELOPER
+        RECOMMENDED FOR PROMOTION
+
+add_if_min
+Name
+        1
+        2
+        1000.0
+
+ManaGer
+        RECOMMENDED FOR PROMOTION
+
+update 0
+TestName3
+        1
+        2
+        1000.0
+
+  BakER
+        Fired
+

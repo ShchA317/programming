@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "name": "ujnyb",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 6,
+        "day": 15
+      },
+      "time": {
+        "hour": 12,
+        "minute": 57,
+        "second": 37,
+        "nano": 977000000
+      }
+    },
+    "salary": 1345.0,
+    "position": "BAKER",
+    "status": "FIRED"
+  },
+  {
+    "id": 2,
+    "name": "123",
+    "coordinates": {
+      "x": 2.0,
+      "y": 2.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 7,
+        "day": 9
+      },
+      "time": {
+        "hour": 20,
+        "minute": 32,
+        "second": 16,
+        "nano": 838000000
+      }
+    },
+    "salary": 20000.0,
+    "position": "MANAGER",
+    "status": "PROBATION"
+  },
+  {
+    "id": 3,
+    "name": "dhfhk",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 7,
+        "day": 9
+      },
+      "time": {
+        "hour": 20,
+        "minute": 32,
+        "second": 57,
+        "nano": 31000000
+      }
+    },
+    "salary": 1.0,
+    "position": "BAKER",
+    "status": "FIRED"
+  },
+  {
+    "id": 4,
+    "name": "Alex",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 7,
+        "day": 9
+      },
+      "time": {
+        "hour": 20,
+        "minute": 37,
+        "second": 43,
+        "nano": 804000000
+      }
+    },
+    "salary": 50.0,
+    "position": "MANAGER",
+    "status": "FIRED"
+  },
+  {
+    "id": 5,
+    "name": "Alex",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 7,
+        "day": 9
+      },
+      "time": {
+        "hour": 20,
+        "minute": 38,
+        "second": 24,
+        "nano": 439000000
+      }
+    },
+    "salary": 50.0,
+    "position": "MANAGER",
+    "status": "FIRED"
+  },
+  {
+    "id": 6,
+    "name": "Alex",
+    "coordinates": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 7,
+        "day": 9
+      },
+      "time": {
+        "hour": 20,
+        "minute": 38,
+        "second": 39,
+        "nano": 943000000
+      }
+    },
+    "salary": 50.0,
+    "position": "MANAGER",
+    "status": "FIRED"
+  },
+  {
+    "id": 6,
+    "name": "vb[f",
+    "coordinates": {
+      "x": 6.844442688648E12,
+      "y": 100.0
+    },
+    "creationDate": {
+      "date": {
+        "year": 2021,
+        "month": 7,
+        "day": 29
+      },
+      "time": {
+        "hour": 7,
+        "minute": 50,
+        "second": 16,
+        "nano": 710000000
+      }
+    },
+    "salary": 4000000.0,
+    "position": "DEVELOPER",
+    "status": "PROBATION"
+  }
+]
